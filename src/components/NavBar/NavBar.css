@@ -1,0 +1,20 @@
+.NavbarStyle{
+    background-color: black;
+}
+
+.me-auto{
+    display: flex;
+    gap: 20%;
+    color: white;
+    font-size: larger;
+}
+.logo{
+    margin-right: 10%;
+    left: 2px;
+    color: white;
+}
+
+.logo:hover{
+    color: red;
+    text-shadow: red;
+}
